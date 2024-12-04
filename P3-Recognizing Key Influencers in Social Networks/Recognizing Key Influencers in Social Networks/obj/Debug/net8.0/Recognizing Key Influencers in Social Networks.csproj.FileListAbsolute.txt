@@ -1,0 +1,14 @@
+C:\Users\ASSUREX\source\repos\Recognizing Key Influencers in Social Networks\Recognizing Key Influencers in Social Networks\bin\Debug\net8.0\Recognizing Key Influencers in Social Networks.exe
+C:\Users\ASSUREX\source\repos\Recognizing Key Influencers in Social Networks\Recognizing Key Influencers in Social Networks\bin\Debug\net8.0\Recognizing Key Influencers in Social Networks.deps.json
+C:\Users\ASSUREX\source\repos\Recognizing Key Influencers in Social Networks\Recognizing Key Influencers in Social Networks\bin\Debug\net8.0\Recognizing Key Influencers in Social Networks.runtimeconfig.json
+C:\Users\ASSUREX\source\repos\Recognizing Key Influencers in Social Networks\Recognizing Key Influencers in Social Networks\bin\Debug\net8.0\Recognizing Key Influencers in Social Networks.dll
+C:\Users\ASSUREX\source\repos\Recognizing Key Influencers in Social Networks\Recognizing Key Influencers in Social Networks\bin\Debug\net8.0\Recognizing Key Influencers in Social Networks.pdb
+C:\Users\ASSUREX\source\repos\Recognizing Key Influencers in Social Networks\Recognizing Key Influencers in Social Networks\obj\Debug\net8.0\Recognizing Key Influencers in Social Networks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASSUREX\source\repos\Recognizing Key Influencers in Social Networks\Recognizing Key Influencers in Social Networks\obj\Debug\net8.0\Recognizing Key Influencers in Social Networks.AssemblyInfoInputs.cache
+C:\Users\ASSUREX\source\repos\Recognizing Key Influencers in Social Networks\Recognizing Key Influencers in Social Networks\obj\Debug\net8.0\Recognizing Key Influencers in Social Networks.AssemblyInfo.cs
+C:\Users\ASSUREX\source\repos\Recognizing Key Influencers in Social Networks\Recognizing Key Influencers in Social Networks\obj\Debug\net8.0\Recognizing Key Influencers in Social Networks.csproj.CoreCompileInputs.cache
+C:\Users\ASSUREX\source\repos\Recognizing Key Influencers in Social Networks\Recognizing Key Influencers in Social Networks\obj\Debug\net8.0\Recognizing Key Influencers in Social Networks.dll
+C:\Users\ASSUREX\source\repos\Recognizing Key Influencers in Social Networks\Recognizing Key Influencers in Social Networks\obj\Debug\net8.0\refint\Recognizing Key Influencers in Social Networks.dll
+C:\Users\ASSUREX\source\repos\Recognizing Key Influencers in Social Networks\Recognizing Key Influencers in Social Networks\obj\Debug\net8.0\Recognizing Key Influencers in Social Networks.pdb
+C:\Users\ASSUREX\source\repos\Recognizing Key Influencers in Social Networks\Recognizing Key Influencers in Social Networks\obj\Debug\net8.0\Recognizing Key Influencers in Social Networks.genruntimeconfig.cache
+C:\Users\ASSUREX\source\repos\Recognizing Key Influencers in Social Networks\Recognizing Key Influencers in Social Networks\obj\Debug\net8.0\ref\Recognizing Key Influencers in Social Networks.dll
